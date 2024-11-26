@@ -10,6 +10,7 @@ I am committed to update it in a regular basis. If you have any suggestions, fee
 
 ### Course
 - [Coursera - Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Google - Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 
 ### Books
