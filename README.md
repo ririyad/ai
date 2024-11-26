@@ -14,3 +14,6 @@ I am committed to update it in a regular basis. If you have any suggestions, fee
 
 ### Books
 - [AI and Machine Learning for Coders](https://www.oreilly.com/library/view/ai-and-machine/9781492078180/)
+
+
+## Activity
